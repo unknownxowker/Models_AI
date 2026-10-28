@@ -1,7 +1,7 @@
 # Compte rendu · TP1 : une API de prédiction pour MaintAI
 
-**Nom :** Mohamed Saifeddine  
-**Groupe :** G4 : Mohamed Saifeddine / Sara Hajdaoui / Ilyass Edhoum / Marwa Khabarate · **Date :** 29/10/2026
+**Nom :** Mohamed Saifeddine 
+**Groupe :** Mohamed Saifeddine / Marwa Khabarate/ Sara hajdaoui / Ilyas edhoum              · **Date :** 28/10/2026
 
 > Les résultats ci-dessous correspondent à l'état actuel du projet. Le modèle est entraîné, mais les deux TODO de `schemas.py` et `main.py` ne sont pas encore implémentés.
 
